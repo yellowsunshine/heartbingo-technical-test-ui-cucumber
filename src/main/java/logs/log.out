@@ -1,0 +1,112 @@
+2022-01-21 02:01:139 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:488 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:136 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:892 INFO  AllProductsPage :33 - Verifying that the game Penny Bingo is displayed on the page
+2022-01-21 02:01:103 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:542 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:702 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> id: username]
+2022-01-21 02:01:800 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> id: password]
+2022-01-21 02:01:934 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> name: login_submit]
+2022-01-21 02:01:233 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (bf9888d9a537522663db2addbf37eeb3)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:05 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:974 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:623 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:814 INFO  AllProductsPage :33 - Verifying that the game Rainbow Jackpots is displayed on the page
+2022-01-21 02:01:18 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:838 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:954 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> id: username]
+2022-01-21 02:01:740 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> id: password]
+2022-01-21 02:01:251 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> name: login_submit]
+2022-01-21 02:01:804 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (3618866b73dcff3ffe9bd6cad7c9b994)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:135 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:69 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:705 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:926 INFO  AllProductsPage :33 - Verifying that the game Heart Bonanza is displayed on the page
+2022-01-21 02:01:362 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:281 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:406 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> id: username]
+2022-01-21 02:01:571 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> id: password]
+2022-01-21 02:01:172 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> name: login_submit]
+2022-01-21 02:01:538 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (c97d847ea68706f44a27aedc1751f9cf)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:17 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:339 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:288 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:519 INFO  AllProductsPage :33 - Verifying that the game Crazy Time is displayed on the page
+2022-01-21 02:01:01 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:621 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:655 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> id: username]
+2022-01-21 02:01:89 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> id: password]
+2022-01-21 02:01:488 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> name: login_submit]
+2022-01-21 02:01:124 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (2363168c63f1a94f38d1fba305b32891)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:911 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:771 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:237 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:295 INFO  AllProductsPage :33 - Verifying that the game Penny Bingo is displayed on the page
+2022-01-21 02:01:687 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:470 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:99 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> id: username]
+2022-01-21 02:01:432 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> id: password]
+2022-01-21 02:01:262 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> name: login_submit]
+2022-01-21 02:01:780 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (de5e43211b20788a2b8b108092b59a07)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:967 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:430 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:103 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:817 INFO  AllProductsPage :33 - Verifying that the game Rainbow Jackpots is displayed on the page
+2022-01-21 02:01:137 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:503 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:189 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> id: username]
+2022-01-21 02:01:922 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> id: password]
+2022-01-21 02:01:500 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> name: login_submit]
+2022-01-21 02:01:794 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (5f019b723a8e562a0742292f337bd1fd)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 02:01:932 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:452 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (76fd726ae25c55ac500c4c0cd220387d)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:716 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (76fd726ae25c55ac500c4c0cd220387d)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:756 INFO  AllProductsPage :33 - Verifying that the game Heart Bonanza is displayed on the page
+2022-01-21 02:01:306 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (76fd726ae25c55ac500c4c0cd220387d)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:886 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (76fd726ae25c55ac500c4c0cd220387d)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:656 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 02:01:696 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 02:01:773 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 02:01:847 INFO  AllProductsPage :33 - Verifying that the game Crazy Time is displayed on the page
+2022-01-21 02:01:940 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 02:01:355 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 02:01:955 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> id: username]
+2022-01-21 02:01:773 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> id: password]
+2022-01-21 02:01:656 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> name: login_submit]
+2022-01-21 02:01:834 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (7241302e15002a98d2d2544cb70a8e10)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 12:01:90 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 12:01:163 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 12:01:206 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 12:01:289 INFO  AllProductsPage :33 - Verifying that the game Penny Bingo is displayed on the page
+2022-01-21 12:01:980 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 12:01:206 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 12:01:976 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> id: username]
+2022-01-21 12:01:590 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> id: password]
+2022-01-21 12:01:10 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> name: login_submit]
+2022-01-21 12:01:509 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (358612d366de23b21753bd3d4e874294)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 12:01:541 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 12:01:930 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 12:01:456 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 12:01:860 INFO  AllProductsPage :33 - Verifying that the game Rainbow Jackpots is displayed on the page
+2022-01-21 12:01:849 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 12:01:873 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 12:01:456 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> id: username]
+2022-01-21 12:01:107 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> id: password]
+2022-01-21 12:01:612 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> name: login_submit]
+2022-01-21 12:01:108 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (687ec5cecdd3092cad5ed3b775813ea0)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 12:01:422 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 12:01:903 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 12:01:507 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 12:01:730 INFO  AllProductsPage :33 - Verifying that the game Heart Bonanza is displayed on the page
+2022-01-21 12:01:587 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 12:01:604 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-21 12:01:243 INFO  LoginPage :56 - Entering Username [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> id: username]
+2022-01-21 12:01:442 INFO  LoginPage :58 - Entering Password [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> id: password]
+2022-01-21 12:01:10 INFO  LoginPage :60 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> name: login_submit]
+2022-01-21 12:01:492 INFO  LoginPage :65 - Verifying error message : [[ChromeDriver: chrome on WINDOWS (41d586499c44ccc5f9935b4b11bf170a)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-21 12:01:13 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-01-21 12:01:995 INFO  HomePage :34 - Clicking on cookies button : [[ChromeDriver: chrome on WINDOWS (98c932842e70bce41865abde6c96cddc)] -> xpath: //button[normalize-space()='Ok, I Agree']]
+2022-01-21 12:01:390 INFO  HomePage :42 - Clicking on the selected menu : [[ChromeDriver: chrome on WINDOWS (98c932842e70bce41865abde6c96cddc)] -> xpath: //ul[@class='bvs-carousel__slider']//li//a]
+2022-01-21 12:01:569 INFO  AllProductsPage :33 - Verifying that the game Crazy Time is displayed on the page
+2022-01-21 12:01:849 INFO  LoginPage :49 - Clicking on Login button : [[ChromeDriver: chrome on WINDOWS (98c932842e70bce41865abde6c96cddc)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-21 12:01:147 INFO  LoginPage :54 - Switching to the iframe : [[ChromeDriver: chrome on WINDOWS (98c932842e70bce41865abde6c96cddc)] -> xpath: //iframe[@class='oneauth-iframe']]
